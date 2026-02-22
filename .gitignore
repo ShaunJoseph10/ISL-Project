@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+desktop.ini
+data/
+isl_model.pkl
